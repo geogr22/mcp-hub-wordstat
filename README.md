@@ -1,1 +1,6 @@
-# mcp-hub-wordstat
+# MCP Hub Wordstat
+
+Установка:
+1. Клонируйте репозиторий.
+2. Установите зависимости Python.
+3. Запустите uvicorn.
